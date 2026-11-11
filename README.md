@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- Cards live in /cards. Ink #111111 and electric blue #2F55FF, with light
+     paper neutrals. Keep this block free of blank lines so the cards stay flush.
+     The submission grid is regenerated daily by .github/workflows/leetcode-heatmap.yml. -->
+<div align="center">
+<a href="https://yash-chaturvedi-portfolio.vercel.app/"><img src="./cards/hero.svg" width="100%" alt="Yash Chaturvedi. I love working on complex software problems. Former intern @ DRDO HQ." /></a><br>
+<a href="https://leetcode.com/u/Oru388f3ta"><img src="./cards/stat-leetcode.svg" width="33.333%" alt="LeetCode Knight, contest rating 1,863, top 6.01%, 962 problems solved." /></a><a href="https://codeforces.com/profile/yashchat007"><img src="./cards/stat-codeforces.svg" width="33.333%" alt="Codeforces Pupil, rating 1,287." /></a><a href="https://takeuforward.org/profile/astrofantom"><img src="./cards/stat-tuf.svg" width="33.333%" alt="takeUforward: 2,802 contributions in the last 12 months, 309 active days, 220-day best streak." /></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-board-dark.svg" /><img src="./cards/title-board-light.svg" width="100%" alt="On the board" /></picture><br>
+<a href="https://leetcode.com/u/Oru388f3ta"><img src="./cards/heatmap.svg" width="100%" alt="LeetCode submission grid for the last 52 weeks." /></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-building-dark.svg" /><img src="./cards/title-building-light.svg" width="100%" alt="What I'm building" /></picture><br>
+<a href="https://github.com/yashchat007/graphite"><img src="./cards/repo-graphite.svg" width="33.333%" alt="Graphite: task dashboard with a focus stopwatch and cross-device sync." /></a><a href="https://github.com/yashchat007/RoleRadar"><img src="./cards/repo-roleradar.svg" width="33.333%" alt="RoleRadar: job discovery across 8 company career sites, with four-dimension matching that explains the fit." /></a><a href="https://github.com/yashchat007/friday"><img src="./cards/repo-friday.svg" width="33.333%" alt="FRIDAY: local Windows desktop agent with Ollama and Playwright. Actions are proposed and confirmed before they run." /></a><br>
+<a href="https://github.com/yashchat007/gesture-control"><img src="./cards/repo-gesture.svg" width="33.333%" alt="Gesture Control: hands-free Windows control from a webcam, with pinch-to-click and drag calibrated per person." /></a><a href="https://github.com/yashchat007/constellation"><img src="./cards/repo-constellation.svg" width="33.333%" alt="Constellation: desktop lyrics visualizer that follows whatever is playing." /></a><a href="https://github.com/yashchat007/CineCircle"><img src="./cards/repo-cinecircle.svg" width="33.333%" alt="CineCircle: social movie platform with watchlists, ratings, reviews, follows, and genre-based recommendations (Spring Boot + React)." /></a><br>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,react,spring,postgres,docker,linux,git" alt="C++, Java, Python, TypeScript, React, Spring, Postgres, Docker, Linux, Git" /><br>
+<a href="https://yash-chaturvedi-portfolio.vercel.app/"><img src="./cards/highlights.svg" width="100%" alt="Highlights: 2,000+ problems across three platforms; best LeetCode contest rank 1,633 of 30,000+; 134 problems on Codeforces in a month; takeUforward Hall of Fame." /></a>
+</div>
 
-<!--
-**yashchat007/yashchat007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://yash-chaturvedi-portfolio.vercel.app/">portfolio</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/yash-chaturvedi-880032378/">linkedin</a> &nbsp;/&nbsp; <a href="mailto:yashchat007@gmail.com">email</a> &nbsp;/&nbsp; <a href="https://yash-chaturvedi-portfolio.vercel.app/Yash_Chaturvedi_Resume.pdf">résumé</a>
+</p>
